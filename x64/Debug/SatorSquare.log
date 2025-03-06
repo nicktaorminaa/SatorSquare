@@ -1,0 +1,7 @@
+﻿  SatorSquare.cpp
+C:\Users\Nicho\source\repos\SatorSquare\SatorSquare.cpp(32,38): error C2248: 'SatorSquare::SatorSquare': cannot access private member declared in class 'SatorSquare'
+C:\Users\Nicho\source\repos\SatorSquare\SatorSquare.cpp(8): message : see declaration of 'SatorSquare::SatorSquare'
+C:\Users\Nicho\source\repos\SatorSquare\SatorSquare.cpp(3): message : see declaration of 'SatorSquare'
+C:\Users\Nicho\source\repos\SatorSquare\SatorSquare.cpp(33,35): error C2248: 'SatorSquare::isSS': cannot access private member declared in class 'SatorSquare'
+C:\Users\Nicho\source\repos\SatorSquare\SatorSquare.cpp(16): message : see declaration of 'SatorSquare::isSS'
+C:\Users\Nicho\source\repos\SatorSquare\SatorSquare.cpp(3): message : see declaration of 'SatorSquare'
